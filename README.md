@@ -64,7 +64,7 @@ int main() {
     char dec[1000] = "";
     int n;
 
-    strcpy(msg, "SAI SANJAY R");
+    strcpy(msg, "SANJAY KUMAR H");
     printf("Input message : %s\n", msg);
 
     // Convert the input message to uppercase
@@ -111,8 +111,7 @@ int main() {
 }
 ```
 ## OUTPUT:
-![Screenshot 2024-10-07 085515](https://github.com/user-attachments/assets/f32b4cdc-bf30-4be8-be18-b4808d736b6d)
-
+![EXP 3SS](https://github.com/user-attachments/assets/bd62ed01-ccd5-4bf5-8390-570a8c0e4faa)
 
 
 ## Result:
